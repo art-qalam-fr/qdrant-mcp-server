@@ -1,0 +1,5 @@
+{
+    "model": "nvidia/nemotron-3-embed-1b",
+    "input": "Tel est la loi - ASIMOV++ framework d'IA alignée",
+    "input_type": "passage"
+}

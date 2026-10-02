@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../qdrant"
+		},
+		{
+			"path": "../zvec-mcp-server"
+		},
+		{
+			"path": "../../antigravity-awesome-skills"
+		}
+	],
+	"settings": {}
+}

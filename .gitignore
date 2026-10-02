@@ -1,0 +1,71 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Test coverage
+coverage/
+
+# Environment variables
+
+
+# IDE
+.vscode/
+.idea/
+.claude/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Qdrant data (local)
+qdrant_storage/
+
+# Ollama data (local)
+ollama_storage/
+
+# Test artifacts and planning docs
+test-collection*
+collection-with-*
+node_modules
+
+# snapshot kit
+.env
+.env.*
+!.env.example
+ide_storage/
+*.log
+__pycache__/
+semantic-cache-data/
+asimov-*
+index-asimov-*
+llm-context
+prompts.json
+config.yaml
+chunk-asimov.mjs
+debug-*.mjs
+direct-index.*
+test-*.mjs
+test-*.json
+test_mistral*
+src/*.backup
+build/
+final-asimov.json
+index-asimov.json
+get-embedding.json
+create-collection.json
+create-telle-est-loi.json
+simple-test.json
+test-mistral-embeddings.ts
+verify-collection.mjs
+debug-qdrant.mjs
+llm-context/
+build/
