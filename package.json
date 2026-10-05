@@ -43,7 +43,7 @@
     "dotenv": "^16.4.7",
     "express": "^5.1.0",
     "ignore": "^7.0.5",
-    "openai": "^4.77.3",
+    "openai": "^7.27.0",
     "tree-sitter": "^0.25.0",
     "tree-sitter-bash": "^0.25.0",
     "tree-sitter-go": "^0.25.0",
